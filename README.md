@@ -1,13 +1,11 @@
-## Hi there 
+## Hi there!
+
+My name is Generous Emokpaire and I'm a self-taught programmer (most interested in web development, but soon going to expand my interests). I'm living in the U.S and currently working on multiple exciting projects! 
 
 - 🤔 I’m looking for help with ... Any project that you have, just DM me on Discord
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I can't think of one!
-
-
-
-My name is Generous Emokpaire and I'm a self-taught programmer (most interested in web development, but soon going to expand my interests). I'm living in the U.S and currently working on multiple exciting projects! 
 
 ## 🔭 What I'm doing now?
 
