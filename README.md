@@ -30,6 +30,12 @@ ANYTHING! I love an intelligent conversation about nearly every topic! I would l
 
 I'm soon to be setting up social media accounts, will post them when they're ready!
 But for know friend me on Discord at King_CS_HS#3695
+# My Stats
+[![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKing-coder68)](https://github.com/theKing-coder68/github-readme-stats)
+![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKing-coder68&hide=contribs,prs)
+![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKing-coder68&show_icons=true)
+# Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theKing-coder68)](https://github.com/anuraghazra/github-readme-stats)
 
 # Stay Awesome!
 
