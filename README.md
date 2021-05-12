@@ -31,10 +31,10 @@ ANYTHING! I love an intelligent conversation about nearly every topic! I would l
 I'm soon to be setting up social media accounts, will post them when they're ready!
 But for know friend me on Discord at King_CS_HS#3695
 # My Stats
-![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKing-coder68&show_icons=true&theme=radical)
+![King's GitHub stats](https://github-readme-stats.vercel.app/api?username=theKing-coder68&show_icons=true&theme=cobalt)
 
 # Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theKing-coder68&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theKing-coder68&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 # Stay Awesome!
 
